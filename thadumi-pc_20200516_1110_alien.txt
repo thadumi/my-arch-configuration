@@ -1,0 +1,10 @@
+jetbrains-toolbox
+skypeforlinux-stable-bin
+spotify
+virtualbox-ext-oracle
+vlc-nightly
+vokoscreen
+woeusb
+xf86-input-keyboard
+xf86-input-mouse
+zoom
